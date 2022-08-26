@@ -10,11 +10,11 @@ Carrinho de produtos do cliente (Quantidade e nome de produto, e botão remover)
 Valor total da compra
 
 ### Tecnologias Utilizadas:
-1. JavaScrypt
-2. React
-2. HTML 
-3. CSS
-4. Styled-Components
+- JavaScrypt
+- React
+- HTML 
+- CSS
+- Styled-Components
 
 
 ### Confira nosso site:
